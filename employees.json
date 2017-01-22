@@ -1,16 +1,16 @@
 [{
 	"name": "Javier",
-	"inoffice" : "false"
+	"inoffice" : true
 },
 {
 	"name": "John",
-	"inoffice" : "true"
+	"inoffice" : true
 },
 {
 	"name": "Janet",
-	"inoffice" : "true"
+	"inoffice" : false
 },
 {
 	"name": "Raquan",
-	"inoffice" : "false"
+	"inoffice" : true
 }]
